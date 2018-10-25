@@ -1,0 +1,12 @@
+package pingVlans;
+
+public class Tuts {
+
+	public static void main(String[] hugo) {
+		
+//		System.out.println("test");
+		
+	}
+
+}
+

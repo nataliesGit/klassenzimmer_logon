@@ -1,0 +1,25 @@
+//COMPANY = NEMETSCHEK
+//PRODUCT = ALLPLAN
+//MODULE = LINETHICKNESSES
+//TITLE = list of thickness values
+//VERSION = 1.0
+//ID value of thickness "description"
+//copied from ETC linethick.def to STD or PRJ as linethick.dat on the first access
+//Replace of and merge with old zstric.dat
+//==============================================================================
+.L 15
+ 1  25
+ 2  35
+ 3  50
+ 4  70
+ 5 100
+ 6 140
+ 7  13
+ 8  18
+ 9 200
+10 280
+11  13
+12  18
+13  25
+14  35
+15  50

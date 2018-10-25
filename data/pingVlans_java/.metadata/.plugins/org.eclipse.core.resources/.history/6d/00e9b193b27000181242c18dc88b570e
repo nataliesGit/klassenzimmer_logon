@@ -1,0 +1,25 @@
+package pingVlans;
+
+import java.util.Random;
+
+public class Tuts {
+
+	public static void main(String[] hugo) {
+		
+//		System.out.println("test");
+		
+		Ueb1 uebung1 = new Ueb1();
+		uebung1.setName("Julia");
+		System.out.println(uebung1.getName());
+		
+//		Random zufallsgenerator = new Random();
+		
+		int gzahl = 15;
+		int negZahl = -7;
+		
+		System.out.println(gzahl);
+		
+	}
+
+}
+

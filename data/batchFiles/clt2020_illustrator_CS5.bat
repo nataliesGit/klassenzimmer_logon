@@ -1,0 +1,1 @@
+psexec.exe -accepteula \\localhost -u mschool-ad\n.scheuble_adm -p test12345  -i "C:\Program Files (x86)\Adobe\Adobe Illustrator CS5\Support Files\Contents\Windows\Illustrator.exe"

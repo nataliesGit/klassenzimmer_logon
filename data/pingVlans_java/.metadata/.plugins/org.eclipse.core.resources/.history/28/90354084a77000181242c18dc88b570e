@@ -1,0 +1,11 @@
+package pingVlans;
+
+public class Ueb1 {
+
+	String name;
+	int alter;
+	
+	void setName(String pName) {
+		name = pName;
+	}
+}

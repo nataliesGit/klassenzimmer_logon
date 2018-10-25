@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NemetschekBuildingStructure xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" NodeID="d1193ed6-9c8a-42b2-bc9d-59376cdd147c" VersionID="325ADB67-B049-4781-A41A-877EADA7D218">
+  <Files xmlns="http://tempuri.org/XMLSchema.xsd">
+    <File ID="1" />
+    <File ID="2" />
+    <File ID="3" />
+    <File ID="4" />
+  </Files>
+  <BuildingStructureNodes xmlns="http://tempuri.org/XMLSchema.xsd">
+    <BuildingStructureChildNode>
+      <Storey Name="Gründung" NodeID="b5becbb1-87c5-4232-8fec-5749114c7d66">
+        <Files>
+          <File ID="10" />
+          <File ID="11" />
+          <File ID="12" />
+        </Files>
+        <Attributes>
+          <InternalAttribute Key="325ADB67-B049-4781-A41A-877EADA7D218">
+            <String Value="101df173-1e0f-4979-9b5a-60e8184df53e" />
+          </InternalAttribute>
+          <InternalAttribute Key="806EA91C-6428-4af2-8917-E63B343D3372">
+            <Integer Value="4" />
+          </InternalAttribute>
+          <InternalAttribute Key="39C9F321-882F-11D3-BD97-00E0294907AD">
+            <Integer Value="3" />
+          </InternalAttribute>
+          <InternalAttribute Key="39C9F327-882F-11D4-BD97-00E0294907AD">
+            <Integer />
+          </InternalAttribute>
+        </Attributes>
+      </Storey>
+    </BuildingStructureChildNode>
+    <BuildingStructureChildNode>
+      <Storey Name="Keller" NodeID="7f7ea853-4c06-4997-813d-1e5aca661f47">
+        <Files>
+          <File ID="20" />
+          <File ID="21" />
+          <File ID="22" />
+        </Files>
+        <Attributes>
+          <InternalAttribute Key="325ADB67-B049-4781-A41A-877EADA7D218">
+            <String Value="101df173-1e0f-4979-9b5a-60e8184df53e" />
+          </InternalAttribute>
+          <InternalAttribute Key="806EA91C-6428-4af2-8917-E63B343D3372">
+            <Integer Value="2" />
+          </InternalAttribute>
+          <InternalAttribute Key="39C9F321-882F-11D3-BD97-00E0294907AD">
+            <Integer Value="1" />
+          </InternalAttribute>
+          <InternalAttribute Key="39C9F327-882F-11D4-BD97-00E0294907AD">
+            <Integer />
+          </InternalAttribute>
+        </Attributes>
+      </Storey>
+    </BuildingStructureChildNode>
+    <BuildingStructureChildNode>
+      <Storey Name="Erdgeschoss" NodeID="b52438ac-8b0d-422a-97f3-88a77e0d2edd">
+        <Files>
+          <File ID="30" />
+          <File ID="31" />
+          <File ID="32" />
+        </Files>
+        <Attributes>
+          <InternalAttribute Key="325ADB67-B049-4781-A41A-877EADA7D218">
+            <String Value="101df173-1e0f-4979-9b5a-60e8184df53e" />
+          </InternalAttribute>
+          <InternalAttribute Key="806EA91C-6428-4af2-8917-E63B343D3372">
+            <Integer Value="6" />
+          </InternalAttribute>
+          <InternalAttribute Key="39C9F321-882F-11D3-BD97-00E0294907AD">
+            <Integer Value="5" />
+          </InternalAttribute>
+          <InternalAttribute Key="39C9F327-882F-11D4-BD97-00E0294907AD">
+            <Integer />
+          </InternalAttribute>
+        </Attributes>
+      </Storey>
+    </BuildingStructureChildNode>
+    <BuildingStructureChildNode>
+      <Storey Name="Obergeschoss" NodeID="84395832-5037-46a7-8069-15c1272260d6">
+        <Files>
+          <File ID="40" />
+          <File ID="41" />
+          <File ID="42" />
+        </Files>
+        <Attributes>
+          <InternalAttribute Key="325ADB67-B049-4781-A41A-877EADA7D218">
+            <String Value="101df173-1e0f-4979-9b5a-60e8184df53e" />
+          </InternalAttribute>
+          <InternalAttribute Key="806EA91C-6428-4af2-8917-E63B343D3372">
+            <Integer Value="8" />
+          </InternalAttribute>
+          <InternalAttribute Key="39C9F321-882F-11D3-BD97-00E0294907AD">
+            <Integer Value="7" />
+          </InternalAttribute>
+          <InternalAttribute Key="39C9F327-882F-11D4-BD97-00E0294907AD">
+            <Integer />
+          </InternalAttribute>
+        </Attributes>
+      </Storey>
+    </BuildingStructureChildNode>
+    <BuildingStructureChildNode>
+      <Storey Name="Dachgeschoss" NodeID="930b2c0b-72b5-46eb-b5f2-4a8f0a31b2f0">
+        <Files>
+          <File ID="50" />
+          <File ID="51" />
+          <File ID="52" />
+        </Files>
+        <Attributes>
+          <InternalAttribute Key="325ADB67-B049-4781-A41A-877EADA7D218">
+            <String Value="101df173-1e0f-4979-9b5a-60e8184df53e" />
+          </InternalAttribute>
+          <InternalAttribute Key="806EA91C-6428-4af2-8917-E63B343D3372">
+            <Integer Value="10" />
+          </InternalAttribute>
+          <InternalAttribute Key="39C9F321-882F-11D3-BD97-00E0294907AD">
+            <Integer Value="9" />
+          </InternalAttribute>
+          <InternalAttribute Key="39C9F327-882F-11D4-BD97-00E0294907AD">
+            <Integer />
+          </InternalAttribute>
+        </Attributes>
+      </Storey>
+    </BuildingStructureChildNode>
+  </BuildingStructureNodes>
+</NemetschekBuildingStructure>

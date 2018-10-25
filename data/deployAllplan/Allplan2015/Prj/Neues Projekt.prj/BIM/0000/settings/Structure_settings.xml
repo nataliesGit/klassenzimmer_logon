@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NemetschekBIMStructureSettings Activated="1">
+  <Files>
+    <File ID="0001" State="3" Activated="1" />
+    <File ID="0002" State="0" Activated="0" />
+    <File ID="0003" State="0" Activated="0" />
+    <File ID="0004" State="0" Activated="0" />
+    <File ID="0010" State="0" Activated="0" />
+    <File ID="0011" State="0" Activated="0" />
+    <File ID="0012" State="0" Activated="0" />
+    <File ID="0020" State="0" Activated="0" />
+    <File ID="0021" State="0" Activated="0" />
+    <File ID="0022" State="0" Activated="0" />
+    <File ID="0030" State="0" Activated="0" />
+    <File ID="0031" State="0" Activated="0" />
+    <File ID="0032" State="0" Activated="0" />
+    <File ID="0040" State="0" Activated="0" />
+    <File ID="0041" State="0" Activated="0" />
+    <File ID="0042" State="0" Activated="0" />
+    <File ID="0050" State="0" Activated="0" />
+    <File ID="0051" State="0" Activated="0" />
+    <File ID="0052" State="0" Activated="0" />
+  </Files>
+<SelectedNodes>
+    <Project Name="Neues Projekt                                     " NodeID="08c82b3d-dd89-43fc-837e-abcde3017c4b" />
+</SelectedNodes>
+<ExpandedNodes>
+</ExpandedNodes>
+</NemetschekBIMStructureSettings>

@@ -1,0 +1,15 @@
+package pingVlans;
+
+public class Tuts {
+
+	public static void main(String[] hugo) {
+		
+//		System.out.println("test");
+		
+		Ueb1 uebung1 = new Ueb1();
+		uebung1.setName("Julia");
+		System.out.println(uebung1.name);
+	}
+
+}
+

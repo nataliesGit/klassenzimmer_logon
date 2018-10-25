@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PrecisionCollectionForMeasurementUnits xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <VersionNumber>1</VersionNumber>
+  <PrecisionCollectionItemList>
+    <PrecisionPrescription UnitId="longitudinal_mm" UnitPrecision="2" />
+    <PrecisionPrescription UnitId="longitudinal_cm" UnitPrecision="3" />
+    <PrecisionPrescription UnitId="longitudinal_dm" UnitPrecision="4" />
+    <PrecisionPrescription UnitId="longitudinal_m" UnitPrecision="5" />
+    <PrecisionPrescription UnitId="longitudinal_km" UnitPrecision="8" />
+    <PrecisionPrescription UnitId="longitudinal_inch" UnitPrecision="2" />
+    <PrecisionPrescription UnitId="longitudinal_feet" UnitPrecision="3" />
+    <PrecisionPrescription UnitId="area_mm" UnitPrecision="2" />
+    <PrecisionPrescription UnitId="area_cm" UnitPrecision="3" />
+    <PrecisionPrescription UnitId="area_dm" UnitPrecision="4" />
+    <PrecisionPrescription UnitId="area_m" UnitPrecision="5" />
+    <PrecisionPrescription UnitId="area_km" UnitPrecision="8" />
+    <PrecisionPrescription UnitId="area_inch" UnitPrecision="2" />
+    <PrecisionPrescription UnitId="area_feet" UnitPrecision="3" />
+    <PrecisionPrescription UnitId="volume_mm" UnitPrecision="2" />
+    <PrecisionPrescription UnitId="volume_cm" UnitPrecision="3" />
+    <PrecisionPrescription UnitId="volume_dm" UnitPrecision="4" />
+    <PrecisionPrescription UnitId="volume_m" UnitPrecision="5" />
+    <PrecisionPrescription UnitId="volume_km" UnitPrecision="8" />
+    <PrecisionPrescription UnitId="volume_inch" UnitPrecision="2" />
+    <PrecisionPrescription UnitId="volume_feet" UnitPrecision="3" />
+    <PrecisionPrescription UnitId="angle_deg" UnitPrecision="6" />
+    <PrecisionPrescription UnitId="angle_rad" UnitPrecision="6" />
+    <PrecisionPrescription UnitId="angle_gon" UnitPrecision="6" />
+    <PrecisionPrescription UnitId="gradient_angle" UnitPrecision="4" />
+    <PrecisionPrescription UnitId="gradient_ratio" UnitPrecision="6" />
+    <PrecisionPrescription UnitId="gradient_percent" UnitPrecision="6" />
+    <PrecisionPrescription UnitId="gradient_promile" UnitPrecision="6" />
+  </PrecisionCollectionItemList>
+</PrecisionCollectionForMeasurementUnits>

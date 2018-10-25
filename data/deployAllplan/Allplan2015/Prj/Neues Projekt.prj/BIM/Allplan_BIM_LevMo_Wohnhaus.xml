@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Levelmodel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" m_iColor="-1" Marked="false" ObjectGuid="101df173-1e0f-4979-9b5a-60e8184df53e" Expanded="true" UpperFloorsNaming="0">
+  <Name>Wohnhaus</Name>
+  <Foundation m_iColor="64" Marked="false" ObjectGuid="00000000-0000-0000-0000-000000000000" Expanded="true">
+    <Name>Fundament</Name>
+    <FloorIndex>-2147483648</FloorIndex>
+    <BottomPlane m_iColor="64" Marked="false" ObjectGuid="00000003-0000-0000-0000-000000000000">
+      <Name>Unterkante Fundament</Name>
+      <HeightLevel>-3750</HeightLevel>
+    </BottomPlane>
+    <TopPlane m_iColor="64" Marked="false" ObjectGuid="00000004-0000-0000-0000-000000000000">
+      <Name>Oberkante Fundament</Name>
+      <HeightLevel>-3150</HeightLevel>
+    </TopPlane>
+  </Foundation>
+  <Building m_iColor="15" Marked="false" ObjectGuid="00000000-0000-0000-0000-000000000000" Expanded="true">
+    <Name>Bauwerk</Name>
+    <FloorIndex>0</FloorIndex>
+    <BottomPlane m_iColor="15" Marked="true" ObjectGuid="0000000b-0000-0000-0000-000000000000">
+      <Name>Unterkante Wohnhaus</Name>
+      <HeightLevel>-3850</HeightLevel>
+    </BottomPlane>
+    <TopPlane m_iColor="15" Marked="false" ObjectGuid="0000000c-0000-0000-0000-000000000000">
+      <Name>Oberkante Wohnhaus</Name>
+      <HeightLevel>8500</HeightLevel>
+    </TopPlane>
+  </Building>
+  <PlanePairs>
+    <Planepair m_iColor="1" Marked="false" ObjectGuid="00000000-0000-0000-0000-000000000000" Expanded="true">
+      <Name>DG</Name>
+      <FloorIndex>2</FloorIndex>
+      <BottomPlane m_iColor="1" Marked="false" ObjectGuid="00000009-0000-0000-0000-000000000000">
+        <Name>Unterkante DG</Name>
+        <HeightLevel>5400</HeightLevel>
+      </BottomPlane>
+      <TopPlane m_iColor="1" Marked="false" ObjectGuid="0000000a-0000-0000-0000-000000000000">
+        <Name>Oberkante DG</Name>
+        <HeightLevel>8000</HeightLevel>
+      </TopPlane>
+    </Planepair>
+    <Planepair m_iColor="5" Marked="false" ObjectGuid="00000000-0000-0000-0000-000000000000" Expanded="true">
+      <Name>OG</Name>
+      <FloorIndex>1</FloorIndex>
+      <BottomPlane m_iColor="5" Marked="false" ObjectGuid="00000007-0000-0000-0000-000000000000">
+        <Name>Unterkante OG</Name>
+        <HeightLevel>2600</HeightLevel>
+      </BottomPlane>
+      <TopPlane m_iColor="5" Marked="false" ObjectGuid="00000008-0000-0000-0000-000000000000">
+        <Name>Oberkante OG</Name>
+        <HeightLevel>5200</HeightLevel>
+      </TopPlane>
+    </Planepair>
+    <Planepair m_iColor="6" Marked="false" ObjectGuid="00000000-0000-0000-0000-000000000000" Expanded="true">
+      <Name>EG</Name>
+      <FloorIndex>0</FloorIndex>
+      <BottomPlane m_iColor="6" Marked="false" ObjectGuid="00000005-0000-0000-0000-000000000000">
+        <Name>Unterkante EG</Name>
+        <HeightLevel>-200</HeightLevel>
+      </BottomPlane>
+      <TopPlane m_iColor="6" Marked="false" ObjectGuid="00000006-0000-0000-0000-000000000000">
+        <Name>Oberkante EG</Name>
+        <HeightLevel>2400</HeightLevel>
+      </TopPlane>
+    </Planepair>
+    <Planepair m_iColor="7" Marked="false" ObjectGuid="00000000-0000-0000-0000-000000000000" Expanded="true">
+      <Name>KG</Name>
+      <FloorIndex>-1</FloorIndex>
+      <BottomPlane m_iColor="7" Marked="false" ObjectGuid="00000001-0000-0000-0000-000000000000">
+        <Name>Unterkante KG</Name>
+        <HeightLevel>-3000</HeightLevel>
+      </BottomPlane>
+      <TopPlane m_iColor="7" Marked="false" ObjectGuid="00000002-0000-0000-0000-000000000000">
+        <Name>Oberkante KG</Name>
+        <HeightLevel>-400</HeightLevel>
+      </TopPlane>
+    </Planepair>
+  </PlanePairs>
+</Levelmodel>

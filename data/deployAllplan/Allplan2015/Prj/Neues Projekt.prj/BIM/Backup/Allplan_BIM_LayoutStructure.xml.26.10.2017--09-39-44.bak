@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NemetschekLayoutStructure xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" NodeID="c5b4bcdd-ad6e-4b8a-8bc0-463b3b6424cb" VersionID="325ADB67-B049-4781-A41A-877EADA7D218">
+  <LayoutStructureNodes xmlns="http://tempuri.org/XMLSchema.xsd">
+    <LayoutStructureNode Name="Entwurfspläne" NodeID="894c24db-3571-40de-857b-0dbc088c82ed">
+      <Files>
+        <Layouts>
+          <Layout ID="1" />
+          <Layout ID="2" />
+          <Layout ID="3" />
+          <Layout ID="4" />
+          <Layout ID="5" />
+        </Layouts>
+      </Files>
+      <LayoutStructureNodes />
+    </LayoutStructureNode>
+    <LayoutStructureNode Name="Bauvorlagepläne" NodeID="f2c801ef-b4b7-457e-a1a6-8699c06cbe8c">
+      <Files>
+        <Layouts>
+          <Layout ID="11" />
+          <Layout ID="12" />
+          <Layout ID="13" />
+          <Layout ID="14" />
+          <Layout ID="15" />
+        </Layouts>
+      </Files>
+      <LayoutStructureNodes />
+    </LayoutStructureNode>
+    <LayoutStructureNode Name="Präsentationspläne" NodeID="a0e6acd8-75da-45ea-ba70-fcda21b714a5">
+      <Files>
+        <Layouts>
+          <Layout ID="21" />
+          <Layout ID="22" />
+          <Layout ID="23" />
+          <Layout ID="24" />
+          <Layout ID="25" />
+        </Layouts>
+      </Files>
+      <LayoutStructureNodes />
+    </LayoutStructureNode>
+    <LayoutStructureNode Name="Ausführungspläne" NodeID="62fa51c7-b4c2-4f46-89d5-07b3f7f77c4a">
+      <Files>
+        <Layouts>
+          <Layout ID="31" />
+          <Layout ID="32" />
+          <Layout ID="33" />
+          <Layout ID="34" />
+          <Layout ID="35" />
+        </Layouts>
+      </Files>
+      <LayoutStructureNodes />
+    </LayoutStructureNode>
+    <LayoutStructureNode Name="Pläne für Bauherr" NodeID="ec8fe2f5-df7d-494e-bc9e-b18b14389219">
+      <Files>
+        <Links>
+          <Link ID="1" Name="Verknüpfung mit Plan 1" />
+          <Link ID="2" Name="Verknüpfung mit Plan 2" />
+          <Link ID="3" Name="Verknüpfung mit Plan 3" />
+          <Link ID="4" Name="Verknüpfung mit Plan 4" />
+          <Link ID="5" Name="Verknüpfung mit Plan 5" />
+          <Link ID="11" Name="Verknüpfung mit Plan 11" />
+          <Link ID="12" Name="Verknüpfung mit Plan 12" />
+          <Link ID="13" Name="Verknüpfung mit Plan 13" />
+          <Link ID="14" Name="Verknüpfung mit Plan 14" />
+          <Link ID="15" Name="Verknüpfung mit Plan 15" />
+        </Links>
+      </Files>
+      <LayoutStructureNodes />
+    </LayoutStructureNode>
+    <LayoutStructureNode Name="Pläne für Bauunternehmen" NodeID="028d767c-3680-48b8-8fce-48e9bb91fc92">
+      <Files>
+        <Links>
+          <Link ID="31" Name="Verknüpfung mit Plan 31" />
+          <Link ID="32" Name="Verknüpfung mit Plan 32" />
+          <Link ID="33" Name="Verknüpfung mit Plan 33" />
+          <Link ID="34" Name="Verknüpfung mit Plan 34" />
+          <Link ID="35" Name="Verknüpfung mit Plan 35" />
+        </Links>
+      </Files>
+      <LayoutStructureNodes />
+    </LayoutStructureNode>
+  </LayoutStructureNodes>
+</NemetschekLayoutStructure>

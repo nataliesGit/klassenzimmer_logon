@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NemetschekBIMViewsSettings Activated="1">
+  <Files>
+    <File ID="0100" State="0" Activated="0" />
+    <File ID="0101" State="0" Activated="0" />
+    <File ID="0105" State="0" Activated="0" />
+    <File ID="0106" State="0" Activated="0" />
+    <File ID="0110" State="0" Activated="0" />
+    <File ID="0111" State="0" Activated="0" />
+    <File ID="0115" State="0" Activated="0" />
+    <File ID="0116" State="0" Activated="0" />
+    <File ID="0150" State="0" Activated="0" />
+    <File ID="0151" State="0" Activated="0" />
+    <File ID="0155" State="0" Activated="0" />
+    <File ID="0156" State="0" Activated="0" />
+  </Files>
+<SelectedNodes>
+</SelectedNodes>
+<ExpandedNodes>
+</ExpandedNodes>
+</NemetschekBIMViewsSettings>
